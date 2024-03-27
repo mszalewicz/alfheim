@@ -1,6 +1,7 @@
 # Alfheim
-
+</br>
 ![alfheim](https://github.com/mszalewicz/alfheim/blob/main/static/alfheim_theme.png)
+</br>
 
 Welcome to Alfheim light code editor theme, crafted with a focus on clarity and visibility. Theme designed to offer a clean and distraction-free environment for coding. With minimal accents, the interface ensures that your code remains the main focus.
 
@@ -26,3 +27,5 @@ curl -LOJ https://raw.githubusercontent.com/mszalewicz/alfheim/main/README.md --
 In zed, open theme selector with shortcut `command + shift + p`, find `theme selector: toggle` and click `enter`. In the list find `Alfheim` and confirm.
 
 ## Credits
+
+Theme created based on the blanche zed theme port. Original: gist.github.com/kwonoj/96abc7f38d6a0eadf6eb1e26808ecf1b
