@@ -1,6 +1,6 @@
 # Alfheim
 
-![alfheim](https://github.com/alfheim/static/alfheim_theme.png)
+![alfheim](https://github.com/mszalewicz/alfheim/blob/main/static/alfheim_theme.png)
 
 Welcome to Alfheim light code editor theme, crafted with a focus on clarity and visibility. Theme designed to offer a clean and distraction-free environment for coding. With minimal accents, the interface ensures that your code remains the main focus.
 
